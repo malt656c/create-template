@@ -1,0 +1,14 @@
+{
+    "files":[
+        {
+            "fileName": "index.html",
+            "content": "<!DOCTYPE html>\n<html lang='en'>\n<head>\n  <meta charset='UTF-8'>\n  <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n  <title>Document</title>\n  <link rel='stylesheet' href='style.css'>\n  <script type='module' src='script.js'></script>\n</head>\n<body>\n  <header></header>\n  <main></main>\n  <footer></footer>\n</body>\n</html>"
+        },        {
+            "fileName": "style.css",
+            "content": "* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\nbody {\n    min-height: 100vh;\n    min-height: 100dvh;\n}"
+        },        {
+            "fileName": "script.js",
+            "content":"// Your JavaScript code here"
+        }
+    ]
+}
